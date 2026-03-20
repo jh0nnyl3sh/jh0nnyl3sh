@@ -62,6 +62,6 @@ My background involves managing complex data structures, building web architectu
 ### 📊 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=jhonylesh&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="jhonylesh" />
+<img src="https://github-readme-stats.vercel.app/api?username=jh0nnyl3sh&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="jhonylesh" />
 </p>
 

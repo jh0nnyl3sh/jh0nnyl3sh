@@ -6,6 +6,7 @@ My background involves managing complex data structures, building web architectu
 
 #### 🚀 What I'm Working On
 - 🔭 **Security Automation:** Building custom Brute-Force & Pentest tools with Python.
+- ⚙️ **Data Engineering & AI:** Orchestrating LLMs with strict Data Validation (Pydantic) and migrating production systems to **PostgreSQL**.
 - 📊 **Big Data Analysis:** Experience in processing and analyzing datasets with over **100,000+ rows**.
 - 🤖 **AI-Native Development:** Actively using next-gen AI IDEs (like Project IDX/Antigravity) to accelerate coding workflows.
 - 🛡️ **Ethical Hacking:** Currently on a disciplined journey to master **Offensive Security** and **Bug Hunting**.
@@ -55,6 +56,9 @@ My background involves managing complex data structures, building web architectu
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/> 
   </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
+  </a>
 </p>
 
 ---
@@ -64,4 +68,3 @@ My background involves managing complex data structures, building web architectu
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=jh0nnyl3sh&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="jhonylesh" />
 </p>
-

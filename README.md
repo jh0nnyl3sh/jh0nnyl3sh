@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, World! I'm Jhony Lesh</h1>
-<h3 align="center">Python Developer & Red Team Student 🛡️</h3>
+<h3 align="center">Python Developer & Etichal Hacker </h3>
 
 <p align="center">
   <a href="https://github.com/jh0nnyl3sh">

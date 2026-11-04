@@ -1,4 +1,4 @@
-### Hi, I'm Uğur — `jh0nnyl3sh` 👋
+### Hi, I'm `jh0nnyl3sh` 👋
 
 Self-taught developer (~6 years) now moving from **building** software to **breaking** it.
 Python-first, with real-world experience in C# / ASP.NET Core MVC.
